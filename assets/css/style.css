@@ -476,6 +476,7 @@ html {
   padding: var(--py) var(--px);
   background: var(--cultured);
   overflow: hidden;
+  background-color: #000;
 }
 
 .about-left .img-box { position: relative; }
@@ -523,7 +524,7 @@ html {
 }
 
 .about-ul p {
-  color: var(--oxford-blue);
+color: #fff;
   font-family: "Roboto", sans-serif;
   font-size: var(--fs-6);
   font-weight: var(--fw-5);
